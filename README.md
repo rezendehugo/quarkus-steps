@@ -77,3 +77,17 @@ native executable:
 After getting a cup of coffee, you'll be able to run this executable directly:
 
 > ./target/getting-started-1.0.0-SNAPSHOT-runner
+
+### Some Tests 
+
+![Screenshot from 2024-09-30 22-42-58](https://github.com/user-attachments/assets/15c00acd-55a8-41af-859a-b98f1b27fa36)
+
+![Screenshot from 2024-09-30 23-01-20](https://github.com/user-attachments/assets/b2bc7c3e-6dbe-4004-a082-e90b054b224f)
+
+![Screenshot from 2024-09-30 23-02-29](https://github.com/user-attachments/assets/84a33f44-8cc1-4864-a74b-ba6020e6f857)
+
+![Screenshot from 2024-09-30 23-37-07](https://github.com/user-attachments/assets/ccc99171-063f-4680-b398-08820ed1758a)
+
+
+
+
